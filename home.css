@@ -1,0 +1,35 @@
+body{
+    background-image: url(./image.PNG);
+}
+
+#container_de_conteudo{
+    width: 65rem;
+}
+#itens_menu{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+input{
+    text-align: center;
+}
+#input_mes_informado{
+    width: 12rem;
+    text-align: center;
+}
+.parte_do_form{
+    height: 2.5rem;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+h1{
+    color: aliceblue;
+    font-family: "Trirong", serif;
+    font-weight: bold;
+}
+h4{
+    font-weight: 200;
+    color: rgb(255, 255, 255);
+    border-color: black;
+}
